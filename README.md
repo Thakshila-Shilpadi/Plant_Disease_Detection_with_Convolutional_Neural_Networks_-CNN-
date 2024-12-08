@@ -26,12 +26,19 @@ The dataset includes 900 images (300 per class). Images are resized to 256x256 p
 ## Project structure
 
 ├── data/                    # Folder for dataset images
+
 ├── models/                  # Saved models and weights
+
 ├── app/                     # Streamlit application files
+
 ├── notebooks/               # Jupyter notebooks for model training and analysis
+
 ├── requirements.txt         # Python dependencies
+
 ├── plant_disease.h5         # Trained model in H5 format
+
 ├── README.md                # Project documentation
+
 └── plant_model.json         # Model architecture in JSON format
 
 
